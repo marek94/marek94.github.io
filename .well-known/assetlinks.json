@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.wasiakgruppe.ann",
+    "sha256_cert_fingerprints":
+    ["1A:FF:AE:25:1F:7F:C7:F3:48:CF:9F:C6:D3:1A:1A:04:F2:E0:42:D4:7D:7A:A6:19:00:02:67:09:3C:BF:82:31"]
+  }
+}]
